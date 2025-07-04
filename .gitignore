@@ -1,0 +1,18 @@
+# Ignore para backend (Java)
+backend/target/
+backend/.idea/
+backend/.classpath
+backend/.project
+backend/.settings/
+backend/.vscode/
+
+# Ignore para frontend (Angular)
+frontend/node_modules/
+frontend/dist/
+frontend/.angular/
+frontend/.idea/
+frontend/.vscode/
+
+# Geral
+*.log
+.env
